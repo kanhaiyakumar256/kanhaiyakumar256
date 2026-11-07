@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,50:164e63,100:0f172a&text=KANHAIYA%20KUMAR&fontColor=ffffff&fontSize=48&fontAlignY=50&animation=fadeIn&stroke=38bdf8&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,50:164e63,100:0f172a&text=KANHA&fontColor=ffffff&fontSize=48&fontAlignY=50&animation=fadeIn&stroke=38bdf8&strokeWidth=1" width="100%" />
 
 ### Robotics Engineering Undergraduate | AI & Technology Explorer
 
