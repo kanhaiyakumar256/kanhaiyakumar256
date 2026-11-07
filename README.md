@@ -27,7 +27,7 @@
 ```python
 class Kanhaiya:
     def __init__(self):
-        self.name = "Kanhaiya Kumar"
+        self.name = "KANHA"
         self.role = "Robotics Engineering Undergraduate"
         self.university = "Ramaiah University of Applied Sciences"
         self.interests = [
