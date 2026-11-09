@@ -1,10 +1,5 @@
  <!-- KANHA | GitHub Profile README -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:020617,50:164e63,100:020617&text=KANHA&fontColor=ffffff&fontSize=65&fontAlignY=50&animation=fadeIn&stroke=38bdf8&strokeWidth=1" width="100%" />
-
-</div>
 
 <table>
 <tr>
