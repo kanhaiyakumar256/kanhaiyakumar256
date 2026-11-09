@@ -84,19 +84,7 @@ Domains     : Robotics, AI/ML, Automation
 
 ---
 
-## `~/github-stats`
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanhaiyakumar256&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyakumar256&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=kanhaiyakumar256&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## `~/philosophy`
 
