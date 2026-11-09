@@ -1,41 +1,47 @@
-
-<!-- =============== KANHA PROFILE =============== -->
+ <!-- KANHA | GitHub Profile README -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=8&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:020617,50:164e63,100:020617&text=KANHA&fontColor=ffffff&fontSize=65&fontAlignY=50&animation=fadeIn&stroke=38bdf8&strokeWidth=1" width="100%" />
+
 </div>
 
-<table width="100%">
+<table>
 <tr>
-<td width="38%" valign="middle" align="center">
+<td width="42%" align="center" valign="top">
 
-<img src="https://github.com/kanhaiyakumar256.png" width="170" style="border-radius:50%"/>
+<img src="https://github.com/kanhaiyakumar256.png" width="190" style="border-radius:50%;" />
 
 <br/><br/>
 
 <pre>
-██╗  ██╗  █████╗  ███╗   ██╗  ██╗  ██╗  █████╗
-██║ ██╔╝ ██╔══██╗ ████╗  ██║  ██║  ██║ ██╔══██╗
-█████╔╝  ███████║ ██╔██╗ ██║  ███████║ ███████║
-██╔═██╗  ██╔══██║ ██║╚██╗██║  ██╔══██║ ██╔══██║
-██║  ██╗ ██║  ██║ ██║ ╚████║  ██║  ██║ ██║  ██║
-╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
+██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗
+██║ ██╔╝██╔══██╗████╗  ██║██║  ██║██╔══██╗
+█████╔╝ ███████║██╔██╗ ██║███████║███████║
+██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║██╔══██║
+██║  ██╗██║  ██║██║ ╚████║██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
 
 ### KANHA
 
 *Observe. Think. Build.*
 
-> "I don't just want to understand technology.
-> I want to build something meaningful with it."
+<br/>
+
+> I don't just want to understand technology. I want to build something meaningful with it.
+
+<br/>
+
+**Robotics • AI • Engineering**
 
 </td>
 
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
 ### `kanha@github:~`
 
-```yaml
+```text
 OS          : Human (Reality)
 Role        : Robotics Engineering Undergraduate
 University  : Ramaiah University of Applied Sciences
@@ -52,10 +58,10 @@ Platform    : GitHub
 ### `// TECHNICAL INTERESTS`
 
 ```text
-Programming  : Python, C, C++
-Development  : HTML, CSS, JavaScript
-Tools        : Git, GitHub, VS Code
-Domains      : Robotics, AI/ML, Automation
+Programming : Python, C, C++
+Development : HTML, CSS, JavaScript
+Tools       : Git, GitHub, VS Code
+Domains     : Robotics, AI/ML, Automation
 ```
 
 ### `// CURRENT MISSION`
@@ -65,6 +71,7 @@ Domains      : Robotics, AI/ML, Automation
 [02] Learning Data Structures & Algorithms
 [03] Exploring intelligent robotic systems
 [04] Building practical engineering projects
+[05] Turning ideas into working solutions
 ```
 
 </td>
@@ -78,57 +85,53 @@ Domains      : Robotics, AI/ML, Automation
 | Project | Description |
 |:---|:---|
 | [Hostel Management System](https://github.com/kanhaiyakumar256/hostel-management-system) | College project – hostel management |
-| [GitHub Profile](https://github.com/kanhaiyakumar256) | My development journey |
+| [GitHub Profile](https://github.com/kanhaiyakumar256/kanhaiyakumar256) | My developer journey |
+
+---
 
 ## `~/github-stats`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanhaiyakumar256&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanhaiyakumar256&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyakumar256&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyakumar256&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=kanhaiyakumar256&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=kanhaiyakumar256&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### `// CONTACT`
-
-- GitHub: [kanhaiyakumar256](https://github.com/kanhaiyakumar256)
-- Email: Available on my GitHub profile
-
-</td>
-<td width="50%" valign="top">
-
-### `// PHILOSOPHY`
+## `~/philosophy`
 
 ```text
 Think deeply.
 Learn constantly.
 Build patiently.
 Improve daily.
+
+       OBSERVE → THINK → BUILD
 ```
 
-</td>
-</tr>
-</table>
+## `~/contact`
 
 <div align="center">
 
-**BUILD · LEARN · EXPLORE · REPEAT**
+<a href="https://github.com/kanhaiyakumar256">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<sub>Designed by KANHA | 2026</sub>
+<a href="mailto:kanhaiyakumar1975@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my corner of GitHub.**
+
+*Building my journey, one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:164e63,100:020617&height=100&section=footer" width="100%" />
 
 </div>
-
-
-
-
-
-
