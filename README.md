@@ -83,32 +83,6 @@ Domains     : Robotics, AI/ML, Automation
 | [GitHub Profile](https://github.com/kanhaiyakumar256/kanhaiyakumar256) | My developer journey |
 
 ---
-
-
-
-## `~/philosophy`
-
-```text
-Think deeply.
-Learn constantly.
-Build patiently.
-Improve daily.
-
-       OBSERVE → THINK → BUILD
-```
-
-## `~/contact`
-
-<div align="center">
-
-<a href="https://github.com/kanhaiyakumar256">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:kanhaiyakumar1975@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <br/><br/>
 
 **Thanks for visiting my corner of GitHub.**
